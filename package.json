@@ -10,7 +10,11 @@
     "server": "node index.js"
   },
   "dependencies": {
-    "koa": "^2.3.0"
+    "koa": "^2.3.0",
+    "moment": "^2.18.1",
+    "mongoose": "^4.11.11",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
   },
   "devDependencies": {
     "nodemon": "^1.12.0"

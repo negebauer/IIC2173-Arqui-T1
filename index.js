@@ -1,4 +1,4 @@
-const app = require('./src/index')
+const app = require('./src/app')
 
 port = process.env.PORT || 8080
 app.listen(port, (err) => {
